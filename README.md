@@ -1,5 +1,8 @@
 # React + Vite
 
+Hola Diego , espero este bien , No agregue la carpeta node_modules porq son muchos archivos , esta bien ? o es necesaria ? 
+
+
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
